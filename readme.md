@@ -23,18 +23,21 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 //**Generate Password/ Input**//
-[Prompt to ask how many characters would like the password to have click here for picture](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic1.png)
 
-[Prompt to enter the length of charactes from 8-128 ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic2.png)
+Click below to see each picture
 
-[if enter wrong length then prompt an alert to enter the correct length of charactes ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic3.png)
+\*\*/ 1 [Prompt to ask how many characters would like the password to have click here for picture](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic1.png)
 
-[Prompt to try again and enter the length of charactes from 8-128 ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic4.png)
+\*\*/ 2 [Prompt to enter the length of charactes from 8-128 ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic2.png)
 
-[Once entered the correct length of charactes display how many characteres the password will have ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic5.png)
+\*\*/ 3 [if enter wrong length then prompt an alert to enter the correct length of charactes ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic3.png)
 
-[Prompt to select the types of characteres the password should have](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic6.png)
+\*\*/ 4 [Prompt to try again and enter the length of charactes from 8-128 ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic4.png)
 
-[If none are selected then prompt to select at least one type of characteres](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic8.png)
+\*\*/ 5 [Once entered the correct length of charactes display how many characteres the password will have ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic5.png)
 
-[Display the new generated password ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic7.png)
+\*\*/ 6 [Prompt to select the types of characteres the password should have](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic6.png)
+
+\*\*/ 7 [If none are selected then prompt to select at least one type of characteres](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic8.png)
+
+\*\*/ 8 [Display the new generated password ](https://github.com/ElyCano/Generate_New_Password/blob/main/password_generator/images/pic7.png)
